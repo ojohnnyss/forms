@@ -1,0 +1,26 @@
+body{
+  background-color:aquamarine;
+  padding-top: 150px;
+
+  }
+
+  
+form{
+  position: relative;
+  margin: 0 auto;
+  width: 300px;
+  background-color:beige;
+  text-align : center;
+  border-radius: 5px;
+  border-top: 1px solid #f1f1f1;
+  box-shadow: 0 0 0 1px #626262 , 0 0 0 6px rgba(150,150,150,.5) , 0 0 0 7px #cbbdbc , 0 0 0 8px #78495b;
+}
+
+input {
+  display    : block;
+  height     : 48px;
+  margin     : 0 auto 17px;
+  text-align : center;
+  width      : 266px;
+  border-radius : 5px;
+}
